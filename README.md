@@ -12,7 +12,7 @@ Sistem manajemen perpustakaan digital berbasis web menggunakan CodeIgniter 3 dan
 
 ## Screenshots
 
-### Dashboard
+### Login
 ![Login](assets/images/login.png)
 
 ### Dashboard
@@ -21,7 +21,7 @@ Sistem manajemen perpustakaan digital berbasis web menggunakan CodeIgniter 3 dan
 ### Book Management
 ![Books](assets/images/mgt-books.png)
 
-### Book Management
+### Create/Update Book
 ![Create-Update-Books](assets/images/create-update-books.png)
 
 ## Requirements
